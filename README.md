@@ -11,7 +11,11 @@
 
 ## Instalação
 
-Para utilizar o projeto é necessário realizar a instalação da ferramenta Unity3D, com qualquer versão LTS 2021 e também da ferramenta Unity Hub, após a intalação e realizar o clone do projeto, é possível abrir uma pasta de projeto pela própria Unity Hub, selecionando a pasta do projeto do github, após isto basta iniciar o projeto.
+Para utilizar o projeto é necessário realizar a instalação da ferramenta Unity3D, com qualquer versão LTS 2021 e também da ferramenta Unity Hub, após a instalação e realizar o clone do projeto, é possível abrir uma pasta de projeto pela própria Unity Hub, selecionando a pasta do projeto do github, após isto basta iniciar o projeto.
+
+<img src="https://i.ibb.co/hW9RVss/Captura-de-tela-2024-05-11-163314.png" width=550></img>
+<img src="https://i.ibb.co/nnMKqVS/Captura-de-tela-2024-05-11-163342.png" width=550></img>
+<img src="https://i.ibb.co/SnzqQ8r/Captura-de-tela-2024-05-11-163241.png" width=550></img>
 
 ## Inicialização
 
