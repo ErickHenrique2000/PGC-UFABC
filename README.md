@@ -2,7 +2,12 @@
 
 ## Requisitos mínimos:
 
-<img src="https://i.ibb.co/nf4sYjy/Captura-de-tela-2024-05-11-151633.png" width=550></img>
+| Minimum requirements      | Windows                                             | macOS                                     | Linux (Support in Preview)                                                   |
+|---------------------------|-----------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------|
+| Operating system version  | Windows 7 (SP1+), Windows 10 and Windows 11, 64-bit versions only. | High Sierra 10.13+                        | Ubuntu 20.04, Ubuntu 18.04, and CentOS 7                                      |
+| CPU                       | X64 architecture with SSE2 instruction set support | X64 architecture with SSE2 instruction set support | X64 architecture with SSE2 instruction set support                           |
+| Graphics API              | DX10, DX11, and DX12-capable GPUs                  | Metal-capable Intel and AMD GPUs         | OpenGL 3.2+ or Vulkan-capable, Nvidia and AMD GPUs.                          |
+| Additional requirements  | Hardware vendor officially supported drivers        | Apple officially supported drivers        | Gnome desktop environment running on top of X11 windowing system, Nvidia official proprietary graphics driver or AMD Mesa graphics driver. Other configuration and user environment as provided stock with the supported distribution (Kernel, Compositor, etc.) |
 
 ## Instalação
 
