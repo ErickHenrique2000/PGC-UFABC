@@ -2,7 +2,7 @@
 
 ## Requisitos mínimos:
 
-| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/77247827?v=4](https://i.ibb.co/nf4sYjy/Captura-de-tela-2024-05-11-151633.png)" width=115><br>|
+<img loading="lazy" src="[https://avatars.githubusercontent.com/u/77247827?v=4](https://i.ibb.co/nf4sYjy/Captura-de-tela-2024-05-11-151633.png)" width=115><br>
 
 ## Instalação
 
