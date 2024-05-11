@@ -15,6 +15,9 @@ Para utilizar o projeto é necessário realizar a instalação da ferramenta Uni
 
 ## Inicialização
 
+Para utilizar o projeto basta selecionar a fase que deseja utilizar, na pasta Scenes e logo em seguida apertar o botão de play
+
+<img src="https://ibb.co/TMpF5ps" width=550></img>
 
 
 ## Autor
